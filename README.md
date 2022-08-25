@@ -26,13 +26,11 @@ contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou 
 que descrevem a ação a ser executada..</p><br>
 
 <dl>
-<dt>Html</dt>
-<dd> Html Basico</dd>
-<dd> Html Avançado</dd>
-<dt> PHP</dt>
-<dd> PHP Básico</dd>
-<dd> PHP Intermediário</dd>
-<dd> PHP Avançado</dd>
+<dt>GET</dt>
+<dd>O método GET solicita a representação de um recurso específico. Requisições utilizando o método GET devem 
+retornar apenas dados.</dd>
+<dt>PUT</dt>
+<dd> O método PUT substitui todas as atuais representações do recurso de destino pela carga de dados da requisição.</dd>
 </dl>
 
 
