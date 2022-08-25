@@ -26,11 +26,16 @@ contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou 
 que descrevem a ação a ser executada..</p><br>
 
 <dl>
-<dt>GET</dt>
+<dt>.GET</dt>
 <dd>O método GET solicita a representação de um recurso específico. Requisições utilizando o método GET devem 
 retornar apenas dados.</dd>
-<dt>PUT</dt>
+<dt>.PUT</dt>
 <dd> O método PUT substitui todas as atuais representações do recurso de destino pela carga de dados da requisição.</dd>
+<dt>.DELETE</dt>
+<dd> O método DELETE remove um recurso específico.</dd>
+<dt>.POST</dt>
+<dd> O método POST é utilizado para submeter uma entidade a um recurso específico, frequentemente causando uma 
+mudança no estado do recurso ou efeitos colaterais no servidor.</dd>
 </dl>
 
 
