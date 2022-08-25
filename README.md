@@ -38,7 +38,15 @@ retornar apenas dados.</dd>
 <dt>.POST</dt>
 <dd> O método POST é utilizado para submeter uma entidade a um recurso específico, frequentemente causando uma 
 mudança no estado do recurso ou efeitos colaterais no servidor.</dd>
-</dl>
+</dl><br>
 
+## :stuck_out_tongue_winking_eye: Qual foi o aprendizado?
+<ol>
+  <li>Instalação e configuração do Framework Spring Boot</li>
+  <li>Entendo o básico de API</li>
+  <li>Entendendo @ Annotation em Java</li>
+  <li>Entendo o método de requisição HTTP</li>
+  <li>Entendo os métodos GET, PUT, POST E DELETE</li>
+</ol>
 
 
