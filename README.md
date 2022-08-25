@@ -13,5 +13,12 @@ o tempo gasto com as configurações iniciais.</p><br>
 Link para download do Spring Boot
 [clique aqui](https://spring.io/) <br>
 
+<img src="api-resumo.jpg" width="768" height="300"><br>
+
+## O que é API? 
+<p>API significa Application Programming Interface (Interface de Programação de Aplicação). No contexto de APIs, 
+a palavra Aplicação refere-se a qualquer software com uma função distinta. A interface pode ser pensada como um 
+contrato de serviço entre duas aplicações.</p><br>
+
 
 
