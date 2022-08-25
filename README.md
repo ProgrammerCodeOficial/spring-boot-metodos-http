@@ -25,6 +25,8 @@ contrato de serviço entre duas aplicações.</p><br>
 contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou um nome (como HEAD ou OPTIONS ), 
 que descrevem a ação a ser executada..</p><br>
 
+<img src="metodo.html.png" width="600" height="600"><br>
+
 <dl>
 <dt>.GET</dt>
 <dd>O método GET solicita a representação de um recurso específico. Requisições utilizando o método GET devem 
