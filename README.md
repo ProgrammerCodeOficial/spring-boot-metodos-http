@@ -20,5 +20,21 @@ Link para download do Spring Boot
 a palavra Aplicação refere-se a qualquer software com uma função distinta. A interface pode ser pensada como um 
 contrato de serviço entre duas aplicações.</p><br>
 
+## Métodos de requisição HTTP
+<p>Requisições HTTP são mensagens enviadas pelo cliente para iniciar uma ação no servidor. Suas linhas iniciais 
+contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou um nome (como HEAD ou OPTIONS ), 
+que descrevem a ação a ser executada..</p><br>
+
+<ol>
+<li>GET
+O método GET solicita a representação de um recurso específico. Requisições utilizando o método GET devem
+retornar apenas dados.</li>
+<li>Endereço</li>
+<li>País</li>
+<li>Telefone</li>
+<li>Endereço</li>
+<li>País</li>
+</ol>
+
 
 
