@@ -3,7 +3,7 @@
 <p> Testando os métodos HTTP (GET, PUT, POST E DELETE) com o framework Spring Boot. 
 Aula da Gama Academy em parceira com a IBM no programa de treinamento If Black The Code. Prof. Isidro.</p>
 
-<img src="git-logo-spring.png" width="217" height="217"><br>
+<img src="logo-spring.png" width="217" height="217"><br>
 
 ## O que é Spring Boot? 
 <p>O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. 
@@ -25,7 +25,7 @@ contrato de serviço entre duas aplicações.</p><br>
 contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou um nome (como HEAD ou OPTIONS ), 
 que descrevem a ação a ser executada..</p><br>
 
-<img src="metodo.html.png" width="600" height="600"><br>
+<img src="metodo-html.png" width="600" height="600"><br>
 
 <dl>
 <dt>.GET</dt>
