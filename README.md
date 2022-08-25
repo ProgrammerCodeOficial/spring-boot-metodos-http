@@ -25,16 +25,15 @@ contrato de serviço entre duas aplicações.</p><br>
 contêm três elementos: Um método HTTP, um verbo (como GET , PUT ou POST ) ou um nome (como HEAD ou OPTIONS ), 
 que descrevem a ação a ser executada..</p><br>
 
-<ol>
-<li>GET
-O método GET solicita a representação de um recurso específico. Requisições utilizando o método GET devem
-retornar apenas dados.</li>
-<li>Endereço</li>
-<li>País</li>
-<li>Telefone</li>
-<li>Endereço</li>
-<li>País</li>
-</ol>
+<dl>
+<dt>Html</dt>
+<dd> Html Basico</dd>
+<dd> Html Avançado</dd>
+<dt> PHP</dt>
+<dd> PHP Básico</dd>
+<dd> PHP Intermediário</dd>
+<dd> PHP Avançado</dd>
+</dl>
 
 
 
