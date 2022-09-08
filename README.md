@@ -5,7 +5,7 @@ Aula da Gama Academy em parceira com a IBM no programa de treinamento If Black T
 
 
 
-## O que é Spring Boot? <img src="logo-spring.png" width="54" height="18"><br>
+## O que é Spring Boot? <img src="logo-spring.png" width="64" height="22"><br>
 <p>O Spring Boot é um framework Java open source que tem como objetivo facilitar esse processo em aplicações Java. 
 Consequentemente, ele traz mais agilidade para o processo de desenvolvimento, uma vez que devs conseguem reduzir
 o tempo gasto com as configurações iniciais.</p><br>
